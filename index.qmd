@@ -1,12 +1,5 @@
 ---
 title: "Robert Mullins"
-
-about:
-  template: jolla
-  links: # create buttons
-    - icon: linkedin 
-      text: LinkedIn
-      href: https://www.linkedin.com/in/robert-mullins-176006319/
 ---
 
 This is a Quarto website.
