@@ -18,5 +18,13 @@ format:
     css: styles.css
     toc: true
 
+image: relative/path/to/your/image.jpg
+about:
+  template: jolla
+  links: # create buttons
+    - icon: linkedin 
+      text: LinkedIn
+      href: linkedin.com/in/robet-mullins-176006319/
+
 
 
