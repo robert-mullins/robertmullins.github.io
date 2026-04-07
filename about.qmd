@@ -2,7 +2,7 @@
 title: "About"
 
 about:
-  template: jolla
+  template: solana
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
