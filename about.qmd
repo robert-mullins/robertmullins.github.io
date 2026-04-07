@@ -1,8 +1,5 @@
 ---
 title: "About"
----
-
-About this site
 
 about:
   template: jolla
@@ -10,3 +7,6 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/robert-mullins-176006319/
+---
+
+About this site
