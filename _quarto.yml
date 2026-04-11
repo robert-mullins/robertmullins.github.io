@@ -18,3 +18,4 @@ format:
       dark: [darkly, styles.scss]
     css: styles.css
     toc: true
+    mainfont: Montserrat  
