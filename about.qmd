@@ -10,3 +10,5 @@ about:
 ---
 
 About this site
+
+Placeholder text to view font
