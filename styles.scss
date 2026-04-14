@@ -5,11 +5,17 @@
 // Colors
 $dark-green: #858E79;
 $light-green: #D1D9CE;
-$cream: #FDFBF7;
+$cream: #E2CEB1;
 $gray: #64605f;
 $purple: #9158A2;
 $orange: #ad7237;
 
-$navbar-bg: $gray;
-$navbar-fg: $orange;    
+$navbar-bg: $cream;
+$navbar-fg: $gray;    
 
+/*-- scss:rules --*/
+
+.navbar-brand img { 
+  max-height: 55px;
+  width: auto;
+}

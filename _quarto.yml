@@ -6,6 +6,8 @@ website:
   title: "Robert Mullins"
   favicon: "favicon-32x32.png"
   navbar:
+    title: false
+    logo: "logo.png"
     left:
       - href: index.qmd
         text: Home
@@ -13,7 +15,7 @@ website:
 
 format:
   html:
-    theme:
+    theme:  
       light: [flatly, styles.scss]
       dark: [darkly, styles.scss]
     css: styles.css
