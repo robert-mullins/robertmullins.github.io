@@ -12,6 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects/index.qmd
 
 format:
   html:
