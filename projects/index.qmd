@@ -2,5 +2,4 @@
 title: Projects
 ---
 
-{{< lipsum 1 >}}
-{{< placeholder 400 400 >}}
+More [about me](/about.qmd).

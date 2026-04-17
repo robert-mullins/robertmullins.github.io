@@ -2,8 +2,6 @@
 title: "Robert Mullins"
 ---
 
-This is a Quarto website.
+More [about me](about.qmd).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Placeholder text to view font
+You might like to look at my projects [projects](projects/)

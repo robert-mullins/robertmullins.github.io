@@ -8,11 +8,17 @@ website:
   navbar:
     title: false
     logo: "logo.png"
+    right:
+      - href: about.qmd
+        text: About
+        icon: people
+      - href: projects/index.qmd
+        text: Projects
+        icon: folder
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects/index.qmd
+        icon: house
 
 format:
   html:
