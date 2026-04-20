@@ -19,7 +19,14 @@ website:
       - href: index.qmd
         text: Home
         icon: house
-
+    tools:
+      - icon: github
+        href: https://github.com/robert-mullins
+  page-footer:
+    left: "Copyright 2026, Robert Mullins"
+    right:
+      - icon: github
+        href: https://github.com/robert-mullins
 format:
   html:
     theme:  
