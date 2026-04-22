@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/list/project_3.html",
+    "href": "projects/list/project_3.html",
+    "title": "Project Three",
     "section": "",
-    "text": "More about me."
+    "text": "Content about project three."
+  },
+  {
+    "objectID": "projects/list/project_1.html",
+    "href": "projects/list/project_1.html",
+    "title": "Project One",
+    "section": "",
+    "text": "Write anything you want here about the project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robert Mullins",
+    "section": "",
+    "text": "More about me.\nYou might like to look at my projects projects"
   },
   {
     "objectID": "about.html",
@@ -14,10 +28,17 @@
     "text": "About this site\nPlaceholder text to view font"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Robert Mullins",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "More about me.\nYou might like to look at my projects projects"
+    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\nShort test\n\n\n\n\n\nMar 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\nShort Test\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nProject One\n\n\nShort test\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/list/project_2.html",
+    "href": "projects/list/project_2.html",
+    "title": "Project Two",
+    "section": "",
+    "text": "Content about project two."
   }
 ]
