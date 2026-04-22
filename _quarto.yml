@@ -15,6 +15,14 @@ website:
       - href: projects/index.qmd
         text: Projects
         icon: folder
+      - text: "CV"
+        href: "cv.pdf"        
+        icon: file-text
+        target: _blank       
+      - icon: linkedin
+        href: https://www.linkedin.com/in/robert-mullins-176006319/
+        aria-label: LinkedIn
+        target: _blank
     left:
       - href: index.qmd
         text: Home
