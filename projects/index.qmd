@@ -3,6 +3,7 @@ title: Projects
 listing:
   contents: list
   type: grid
+  fields: ["image", "title", "categories", "description"]
   sort: "date desc"
 ---
 

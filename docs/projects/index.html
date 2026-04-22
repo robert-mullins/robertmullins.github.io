@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -389,16 +389,13 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Project Three
 </h5>
-<div class="card-text listing-description delink">
-<p>Short test</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVzdA=='); return false;">Test</div>
 
 </div>
-<div class="listing-date">
-Mar 1, 2024
-</div>
+<div class="card-text listing-description delink">
+<p>Short test</p>
 </div>
 </div>
 </div></a>
@@ -411,16 +408,13 @@ Mar 1, 2024
 <h5 class="no-anchor card-title listing-title">
 Project Two
 </h5>
-<div class="card-text listing-description delink">
-<p>Short Test</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVzdA=='); return false;">Test</div>
 
 </div>
-<div class="listing-date">
-Feb 1, 2024
-</div>
+<div class="card-text listing-description delink">
+<p>Short Test</p>
 </div>
 </div>
 </div></a>
@@ -433,16 +427,13 @@ Feb 1, 2024
 <h5 class="no-anchor card-title listing-title">
 Project One
 </h5>
-<div class="card-text listing-description delink">
-<p>Short test</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVzdA=='); return false;">Test</div>
 
 </div>
-<div class="listing-date">
-Jan 1, 2024
-</div>
+<div class="card-text listing-description delink">
+<p>Short test</p>
 </div>
 </div>
 </div></a>
