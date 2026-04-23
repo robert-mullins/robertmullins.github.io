@@ -270,11 +270,32 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./projects/index.html"> <i class="bi bi-folder" role="img">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-folder" role="img">
 </i> 
-<span class="menu-text">Projects</span></a>
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="./projects/list/project_1.html">
+ <span class="dropdown-text">Project One</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./projects/list/project_2.html">
+ <span class="dropdown-text">Project Two</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./projects/list/project_3.html">
+ <span class="dropdown-text">Project Three</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="./projects/index.html">
+ <span class="dropdown-text">All Projects</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./cv.pdf" target="_blank"> <i class="bi bi-file-text" role="img">
 </i> 
@@ -759,6 +780,11 @@ ul.task-list li input[type="checkbox"] {
       <i class="bi bi-github" role="img">
 </i> 
     </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org">
+<p>Built with Quarto</p>
+</a>
   </li>  
 </ul>
     </div>

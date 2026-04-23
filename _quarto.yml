@@ -12,9 +12,18 @@ website:
       - href: about.qmd
         text: About
         icon: people
-      - href: projects/index.qmd
-        text: Projects
+      - text: Projects
         icon: folder
+        menu:
+          - text: "Project One"
+            href: projects/list/project_1.qmd
+          - text: "Project Two"
+            href: projects/list/project_2.qmd
+          - text: "Project Three"
+            href: projects/list/project_3.qmd
+          - text: "---"        # adds a divider line
+          - text: "All Projects"
+            href: projects/index.qmd
       - text: "CV"
         href: "cv.pdf"        
         icon: file-text
@@ -32,9 +41,11 @@ website:
         href: https://github.com/robert-mullins
   page-footer:
     left: "Copyright 2026, Robert Mullins"
-    right:
+    right: 
       - icon: github
         href: https://github.com/robert-mullins
+      - text: "Built with Quarto"
+        href: https://quarto.org
 format:
   html:
     theme:  
