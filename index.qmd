@@ -18,6 +18,12 @@ about:
       href: mailto:robertdavmullins@gmail.com
 ---
 
-More [about me](about.qmd).
+## Welcome to my ePortfolio!
 
-You might like to look at my projects [projects](projects/)
+I'm a Final Year International Business student at Dublin City University.
+Here, you can find a collection of my skills, academic projects and experiences. 
+Do feel free to reach out to me on Linkedin or by email if you have any questions!
+
+You can find out more [about me here.](about.qmd)
+
+Alternatively, feel free to take a look at my [projects here.](projects/)
