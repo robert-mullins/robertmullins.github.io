@@ -1,5 +1,21 @@
 ---
 title: "Robert Mullins"
+
+about:
+  template: trestles
+  image: images/me.png
+  links: # create buttons
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/robert-mullins-176006319/
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/robert-mullins
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:robertdavmullins@gmail.com
 ---
 
 More [about me](about.qmd).

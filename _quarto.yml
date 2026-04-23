@@ -4,10 +4,10 @@ project:
 
 website:
   title: "Robert Mullins"
-  favicon: "favicon-32x32.png"
+  favicon: "images/favicon-32x32.png"
   navbar:
     title: false
-    logo: "logo.png"
+    logo: "images/logo.png"
     right:
       - href: about.qmd
         text: About
