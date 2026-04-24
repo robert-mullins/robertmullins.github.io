@@ -21,32 +21,32 @@
     "text": "Content about project three."
   },
   {
-    "objectID": "projects/list/eportfolio.html",
-    "href": "projects/list/eportfolio.html",
-    "title": "ePortfolio",
+    "objectID": "projects/list/bankruptcy.html",
+    "href": "projects/list/bankruptcy.html",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
   },
   {
-    "objectID": "projects/list/eportfolio.html#overview",
-    "href": "projects/list/eportfolio.html#overview",
-    "title": "ePortfolio",
+    "objectID": "projects/list/bankruptcy.html#overview",
+    "href": "projects/list/bankruptcy.html#overview",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
   },
   {
-    "objectID": "projects/list/eportfolio.html#view-github-repository-here",
-    "href": "projects/list/eportfolio.html#view-github-repository-here",
-    "title": "ePortfolio",
-    "section": "View GitHub Repository here",
-    "text": "View GitHub Repository here\n GitHub Repo"
+    "objectID": "projects/list/bankruptcy.html#read-the-full-report",
+    "href": "projects/list/bankruptcy.html#read-the-full-report",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "section": "Read the Full Report",
+    "text": "Read the Full Report\n Read Full Report"
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you can view various projects from my time at both Dublin City University in Ireland, and Waseda University in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nePortfolio\n\n\n\nQuarto\n\nSCSS\n\nPython\n\nData Analytics\n\n\n\nCreating an ePortfolio using Quarto to showcase skills, achievements, background and future goals.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
+    "text": "Here you can view various projects from my time at both Dublin City University in Ireland, and Waseda University in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nePortfolio\n\n\n\nQuarto\n\nSCSS\n\nPython\n\nData Analytics\n\n\n\nCreating an ePortfolio using Quarto to showcase skills, achievements, background and future goals.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\n\n\nUnique Characteristics of Ainu Culture\n\n\n\nJapanese\n\nCulture\n\nAinu\n\n\n\nA short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan.\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -98,32 +98,46 @@
     "text": "I’m a Final Year International Business student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
   },
   {
-    "objectID": "projects/list/bankruptcy.html",
-    "href": "projects/list/bankruptcy.html",
-    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "objectID": "projects/list/ainu.html",
+    "href": "projects/list/ainu.html",
+    "title": "Unique Characteristics of Ainu Culture",
     "section": "",
-    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
   },
   {
-    "objectID": "projects/list/bankruptcy.html#overview",
-    "href": "projects/list/bankruptcy.html#overview",
-    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "objectID": "projects/list/ainu.html#overview",
+    "href": "projects/list/ainu.html#overview",
+    "title": "Unique Characteristics of Ainu Culture",
     "section": "",
-    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
   },
   {
-    "objectID": "projects/list/bankruptcy.html#read-the-full-report",
-    "href": "projects/list/bankruptcy.html#read-the-full-report",
-    "title": "Machine Learning Analysis on Company Bankruptcy",
-    "section": "Read the Full Report",
-    "text": "Read the Full Report\n Read Full Report"
+    "objectID": "projects/list/ainu.html#read-the-full-report",
+    "href": "projects/list/ainu.html#read-the-full-report",
+    "title": "Unique Characteristics of Ainu Culture",
+    "section": "Read the full report",
+    "text": "Read the full report\n Read Full Report"
   },
   {
-    "objectID": "projects/list/project_3.html",
-    "href": "projects/list/project_3.html",
-    "title": "Project Three",
+    "objectID": "projects/list/eportfolio.html",
+    "href": "projects/list/eportfolio.html",
+    "title": "ePortfolio",
     "section": "",
-    "text": "Content about project three."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#overview",
+    "href": "projects/list/eportfolio.html#overview",
+    "title": "ePortfolio",
+    "section": "",
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#view-github-repository-here",
+    "href": "projects/list/eportfolio.html#view-github-repository-here",
+    "title": "ePortfolio",
+    "section": "View GitHub Repository here",
+    "text": "View GitHub Repository here\n GitHub Repo"
   },
   {
     "objectID": "projects/list/project_5.html",
