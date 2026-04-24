@@ -1,8 +1,0 @@
----
-title: "Project Two"
-description: "Short Test"
-date: 2024-02-01
-categories: [Test]
----
-
-Content about project two.

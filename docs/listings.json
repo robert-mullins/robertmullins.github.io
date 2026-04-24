@@ -2,9 +2,9 @@
   {
     "listing": "/projects/index.html",
     "items": [
+      "/projects/list/eportfolio.html",
       "/projects/list/bankruptcy.html",
-      "/projects/list/project_3.html",
-      "/projects/list/project_2.html"
+      "/projects/list/project_3.html"
     ]
   }
 ]

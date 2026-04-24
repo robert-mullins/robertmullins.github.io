@@ -17,8 +17,8 @@ website:
         menu:
           - text: "Machine Learning Analysis on Company Bankruptcy"
             href: projects/list/bankruptcy.qmd
-          - text: "Project Two"
-            href: projects/list/project_2.qmd
+          - text: "ePortfolio"
+            href: projects/list/eportfolio.qmd
           - text: "Project Three"
             href: projects/list/project_3.qmd
           - text: "---"        # adds a divider line

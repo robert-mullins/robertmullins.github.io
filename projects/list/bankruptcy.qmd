@@ -3,7 +3,7 @@ title: "Machine Learning Analysis on Company Bankruptcy"
 description: "Comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset."
 author: "Robert Mullins"
 date: 2026-04-19
-image: ../../images/bankruptcy.png
+image: "placeholder.png"
 categories: [Machine Learning, Python, Data Analytics]
 ---
 

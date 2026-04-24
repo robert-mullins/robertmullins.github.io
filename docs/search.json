@@ -18,7 +18,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\n\nTest\n\n\n\nShort Test\n\n\n\n\n\nNo matching items"
+    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nePortfolio\n\n\n\nQuarto\n\nSCSS\n\nPython\n\nData Analytics\n\n\n\nCreating an ePortfolio using Quarto to showcase skills, achievements, background and future goals.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -96,5 +96,26 @@
     "title": "Project Three",
     "section": "",
     "text": "Content about project three."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html",
+    "href": "projects/list/eportfolio.html",
+    "title": "ePortfolio",
+    "section": "",
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#overview",
+    "href": "projects/list/eportfolio.html#overview",
+    "title": "ePortfolio",
+    "section": "",
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#view-github-repository-here",
+    "href": "projects/list/eportfolio.html#view-github-repository-here",
+    "title": "ePortfolio",
+    "section": "View GitHub Repository here",
+    "text": "View GitHub Repository here\n GitHub Repo"
   }
 ]

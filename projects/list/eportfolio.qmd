@@ -1,0 +1,22 @@
+---
+title: "ePortfolio"
+description: "Creating an ePortfolio using Quarto to showcase skills, achievements, background and future goals."
+author: "Robert Mullins"
+date: 2026-04-24
+image: "placeholder.png"
+categories: [Quarto, SCSS, Python, Data Analytics]
+---
+
+## Overview
+
+Placeholder
+
+::: {.callout-note}
+This project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed [here.](/reflection.qmd)
+:::
+
+## View GitHub Repository here
+
+[{{< fa file-pdf >}} GitHub Repo](https://github.com/robert-mullins/robertmullins.github.io){.btn .btn-outline-primary target="_blank"}
+
+---
