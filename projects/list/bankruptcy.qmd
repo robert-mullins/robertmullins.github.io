@@ -70,3 +70,15 @@ plt.ylabel("Count")
 plt.title("Class Distribution")
 plt.show()
 ```
+
+```{python}
+#| warning: false
+#| fig-cap: "Figure 2 - Correlation Heatmap"
+
+import seaborn as sns
+top_20_cor_feat = df.corr()["Bankrupt?"].abs().nlargest(21).index
+
+#creating a heatmap of the top 20 most correlated features, both neagative and positive. we see its mostly associated with assets and liabilities
+sns.heatmap(df[top_20_cor_feat].corr(), annot=False, linewidths=0.3)
+plt.show()
+```

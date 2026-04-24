@@ -460,7 +460,7 @@ Note
 <h2 class="anchored" data-anchor-id="visualisations-from-project">Visualisations from Project</h2>
 <section id="class-distribution-and-shape" class="level3">
 <h3 class="anchored" data-anchor-id="class-distribution-and-shape">Class Distribution and Shape</h3>
-<div id="47cc0d8f" class="cell" data-execution_count="1">
+<div id="1b264e8a" class="cell" data-execution_count="1">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.ticker <span class="im">as</span> ticker</span>
@@ -487,7 +487,7 @@ Bankrupt?
 Name: count, dtype: int64</code></pre>
 </div>
 </div>
-<div id="174b3216" class="cell" data-execution_count="2">
+<div id="4b205a53" class="cell" data-execution_count="2">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">#as seen above, there is a large class imbalance</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="co">#this is why SMOTE will be needed later on to create artificial bankrupcties in data (oversampling)</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -503,6 +503,22 @@ Name: count, dtype: int64</code></pre>
 <figure class="figure">
 <p><img src="bankruptcy_files/figure-html/cell-3-output-1.png" width="601" height="431" class="figure-img"></p>
 <figcaption>Figure 1 - Class Distribution of the Taiwanese Bankruptcy Dataset</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div id="69f5c7c4" class="cell" data-execution_count="3">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>top_20_cor_feat <span class="op">=</span> df.corr()[<span class="st">"Bankrupt?"</span>].<span class="bu">abs</span>().nlargest(<span class="dv">21</span>).index</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co">#creating a heatmap of the top 20 most correlated features, both neagative and positive. we see its mostly associated with assets and liabilities</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>sns.heatmap(df[top_20_cor_feat].corr(), annot<span class="op">=</span><span class="va">False</span>, linewidths<span class="op">=</span><span class="fl">0.3</span>)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="bankruptcy_files/figure-html/cell-4-output-1.png" width="910" height="773" class="figure-img"></p>
+<figcaption>Figure 2 - Correlation Heatmap</figcaption>
 </figure>
 </div>
 </div>
