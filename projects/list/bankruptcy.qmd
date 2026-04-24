@@ -21,4 +21,10 @@ This project was completed as part of BAA1027 Data Analytics: Machine Learning &
 
 [{{< fa file-pdf >}} Read Full Report](/projects/reports/bankruptcy_report.pdf){.btn .btn-outline-primary target="_blank"}
 
+<iframe src="/projects/reports/bankruptcy_report.pdf" 
+        width="100%" 
+        height="800px"
+        style="border: none; border-radius: 8px;">
+</iframe>
+
 ---

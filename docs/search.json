@@ -7,11 +7,39 @@
     "text": "placeholder"
   },
   {
-    "objectID": "projects/list/project_2.html",
-    "href": "projects/list/project_2.html",
-    "title": "Project Two",
+    "objectID": "projects/list/project_6.html",
+    "href": "projects/list/project_6.html",
+    "title": "Project Three",
     "section": "",
-    "text": "Content about project two."
+    "text": "Content about project three."
+  },
+  {
+    "objectID": "projects/list/project_4.html",
+    "href": "projects/list/project_4.html",
+    "title": "Project Three",
+    "section": "",
+    "text": "Content about project three."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html",
+    "href": "projects/list/eportfolio.html",
+    "title": "ePortfolio",
+    "section": "",
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#overview",
+    "href": "projects/list/eportfolio.html#overview",
+    "title": "ePortfolio",
+    "section": "",
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+  },
+  {
+    "objectID": "projects/list/eportfolio.html#view-github-repository-here",
+    "href": "projects/list/eportfolio.html#view-github-repository-here",
+    "title": "ePortfolio",
+    "section": "View GitHub Repository here",
+    "text": "View GitHub Repository here\n GitHub Repo"
   },
   {
     "objectID": "projects/index.html",
@@ -93,41 +121,6 @@
   {
     "objectID": "projects/list/project_3.html",
     "href": "projects/list/project_3.html",
-    "title": "Project Three",
-    "section": "",
-    "text": "Content about project three."
-  },
-  {
-    "objectID": "projects/list/eportfolio.html",
-    "href": "projects/list/eportfolio.html",
-    "title": "ePortfolio",
-    "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
-  },
-  {
-    "objectID": "projects/list/eportfolio.html#overview",
-    "href": "projects/list/eportfolio.html#overview",
-    "title": "ePortfolio",
-    "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
-  },
-  {
-    "objectID": "projects/list/eportfolio.html#view-github-repository-here",
-    "href": "projects/list/eportfolio.html#view-github-repository-here",
-    "title": "ePortfolio",
-    "section": "View GitHub Repository here",
-    "text": "View GitHub Repository here\n GitHub Repo"
-  },
-  {
-    "objectID": "projects/list/project_6.html",
-    "href": "projects/list/project_6.html",
-    "title": "Project Three",
-    "section": "",
-    "text": "Content about project three."
-  },
-  {
-    "objectID": "projects/list/project_4.html",
-    "href": "projects/list/project_4.html",
     "title": "Project Three",
     "section": "",
     "text": "Content about project three."
