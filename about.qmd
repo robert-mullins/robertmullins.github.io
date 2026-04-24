@@ -5,7 +5,7 @@ about:
   template: solana
   image: images/mountain.png
 ---
-<br><br>
+<br>
 
 ## Robert Mullins
 
@@ -14,13 +14,15 @@ I'm particularly interested in utilising data analytics to examine public policy
 
 My goals for now involve continuing my education, partiuclarly in relation to international relations, public policy and governence. I am particularly interested in applying quantative methods of analysis onto these fields, which I would do by continuing to devlop my skills with Python and SQL. 
 
+<br>
+
 ### My Skills:
 
 - **Languages:** English (Native), Japanese (B2), Mandarin (A2)
 - **Programming Languages:** Python, CSS, SQL, HTML, R 
 - **Software:** Power BI, GitHub, Microsoft Office, GeoDa, ArcGis Pro
 
-<br><br>
+<br>
 
 ### Certifications & Scholarships:
 
@@ -45,13 +47,13 @@ My goals for now involve continuing my education, partiuclarly in relation to in
 | Excel | Course | Formulas and Functions in Excel | November 5, 2022 | 3.0 |
 | Excel | Course | Data Manipulation and Formatting in Excel | October 19, 2022 | 2.0 |
 
-<br><br>
+<br>
 
 ### Hobbies:
 
 - Hiking, running, travelling, language learning
 
-<br><br>
+<br>
 
 ### Favourite Music
 
