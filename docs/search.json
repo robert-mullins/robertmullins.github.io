@@ -1,17 +1,59 @@
 [
   {
-    "objectID": "projects/list/project_3.html",
-    "href": "projects/list/project_3.html",
-    "title": "Project Three",
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
     "section": "",
-    "text": "Content about project three."
+    "text": "placeholder"
   },
   {
-    "objectID": "projects/list/project_1.html",
-    "href": "projects/list/project_1.html",
-    "title": "Project One",
+    "objectID": "projects/list/project_2.html",
+    "href": "projects/list/project_2.html",
+    "title": "Project Two",
     "section": "",
-    "text": "Write anything you want here about the project."
+    "text": "Content about project two."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\n\nTest\n\n\n\nShort Test\n\n\n\n\n\n\n\n\n\n\nProject One\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contact & References",
+    "section": "",
+    "text": "Feel free to reach out to me through any of the following:\n\nEmail: robertdavmullins@gmail.com\nLinkedIn: Robert Mullins\nGitHub: robert-mullins"
+  },
+  {
+    "objectID": "contacts.html#contact",
+    "href": "contacts.html#contact",
+    "title": "Contact & References",
+    "section": "",
+    "text": "Feel free to reach out to me through any of the following:\n\nEmail: robertdavmullins@gmail.com\nLinkedIn: Robert Mullins\nGitHub: robert-mullins"
+  },
+  {
+    "objectID": "contacts.html#references",
+    "href": "contacts.html#references",
+    "title": "Contact & References",
+    "section": "References",
+    "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
+  },
+  {
+    "objectID": "about.html#robert-mullins",
+    "href": "about.html#robert-mullins",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
   },
   {
     "objectID": "index.html",
@@ -28,59 +70,17 @@
     "text": "I’m a Final Year International Business student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "projects/list/project_1.html",
+    "href": "projects/list/project_1.html",
+    "title": "Project One",
     "section": "",
-    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
+    "text": "Write anything you want here about the project."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/list/project_3.html",
+    "href": "projects/list/project_3.html",
+    "title": "Project Three",
     "section": "",
-    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\n\nTest\n\n\n\nShort Test\n\n\n\n\n\n\n\n\n\n\nProject One\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/list/project_2.html",
-    "href": "projects/list/project_2.html",
-    "title": "Project Two",
-    "section": "",
-    "text": "Content about project two."
-  },
-  {
-    "objectID": "about.html#robert-mullins",
-    "href": "about.html#robert-mullins",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
-  },
-  {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Reflection",
-    "section": "",
-    "text": "placeholder"
-  },
-  {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contact & References",
-    "section": "",
-    "text": "Feel free to reach out to me through any of the following:\n\nEmail: robertdavmullins@gmail.com\nLinkedIn: Robert Mullins\nGitHub: yourusername"
-  },
-  {
-    "objectID": "contacts.html#contact",
-    "href": "contacts.html#contact",
-    "title": "Contact & References",
-    "section": "",
-    "text": "Feel free to reach out to me through any of the following:\n\nEmail: robertdavmullins@gmail.com\nLinkedIn: Robert Mullins\nGitHub: yourusername"
-  },
-  {
-    "objectID": "contacts.html#references",
-    "href": "contacts.html#references",
-    "title": "Contact & References",
-    "section": "References",
-    "text": "References\nAvailable upon request."
+    "text": "Content about project three."
   }
 ]
