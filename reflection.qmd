@@ -2,4 +2,24 @@
 title: "Reflection"
 ---
 
-placeholder
+## {{< fa book-open >}} My Learning Journey
+
+::: {.callout-note}
+This module pushed me to develop both technical and analytical skills I had no prior experience with,
+particularly in version control and web development.
+:::
+
+---
+
+## {{< fa code >}} Skills Developed
+
+Throughout this module I worked across a range of tools and technologies:
+
+| Skill | Tool | Application |
+|---|---|---|
+| Version Control | Git & GitHub | Managed all project changes carefully |
+| Web Publishing | Quarto & GitHub Pages | Built this portfolio |
+| Styling | SCSS & Bootswatch | Customised site theme and layout |
+
+---
+
