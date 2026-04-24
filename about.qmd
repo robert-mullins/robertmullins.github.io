@@ -11,7 +11,7 @@ about:
 I'm a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics.
 I'm particularly interested in utilising data analytics to examine public policy and investment, which I have approached in some of my [projects.](projects/index.qmd)
 
-My goals for now involve continuing my education, particularly in relation to international relations, public policy and governence. I am particularly interested in applying quantative methods of analysis onto these fields, which I would do by continuing to devlop my skills with Python and SQL. 
+My goals for now involve continuing my education, particularly in relation to international relations, public policy and governance. I am particularly interested in applying quantitative methods of analysis onto these fields, which I would do by continuing to develop my skills with Python and SQL. 
 
 
 ### My Skills:
