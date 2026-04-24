@@ -28,11 +28,18 @@
     "text": "Module Checklist\nHere is a short checklist which shows how this website has met the main requirements of this assessment:\n\nSet up a Git repository and commit regularly\nDeploy a Quarto website to GitHub Pages\nCreate all required pages (e.g About, Projects, Reflection)\nAdd a CV as a linked PDF\nCreate a projects listing with executable Python code\nCustomise the theme with SCSS\nImplement a satisfactory number of markdown features\nImplement Google Font\nClean, professional folder repository\nAdd all required social links"
   },
   {
-    "objectID": "reflection.html#critical-reflection-what-i-found-challenging",
-    "href": "reflection.html#critical-reflection-what-i-found-challenging",
+    "objectID": "reflection.html#critical-reflection",
+    "href": "reflection.html#critical-reflection",
     "title": "Reflection",
-    "section": " Critical Reflection ### What I Found Challenging",
-    "text": "Critical Reflection ### What I Found Challenging\nTo be honest, initially the entire assignment felt challenging. I was not familiar with GitHub very much, and found it a little intimidating to be constantly pushing things! There were a number of times I had to delete and recreate my repository because I just couldn’t get something to work. However, I did eventually get used to it. Initially, I also struggled with remembering to render with Quarto. Aside from this, I struggled with a few individual markdown items such as Mermaid diagrams, which I was unable to implement in the end.\n\nWhat I Would Do Differently\nIf I was starting again, I would definitely have a more established plan and list of things I wanted to get done. Whilst the final assignment rubric helped a lot of formulating a plan, I should’ve had one set up myself beforehand as it would’ve prevented chaotic additions and then retractions to my portfolio.\n\n\nHow These Skills Apply Beyond This Module\nThe combination of Git, Python, and web publishing is directly transferable to data analyst and business intelligence roles. Being able to present analysis in a professional, deployed portfolio rather than a static document is a necessary skill nowadays. An underrated part of this assignment is that it has also given us a GitHub commit history, which can be checked by some employers (particularly if I was to go into data analytics). I generally also got very comfortable with VS Code, which is a very commonly used and important software to be able to use.\n— ##  Future Goals ::: {.callout-tip} I plan to keep using this portfolio after graduating to differentiate myself in a tight job market. I hope to add to it as I plan my own projects outside of university. :::"
+    "section": " Critical Reflection",
+    "text": "Critical Reflection\n\nWhat I Found Challenging\nTo be honest, initially the entire assignment felt challenging. I was not familiar with GitHub very much, and found it a little intimidating to be constantly pushing things! There were a number of times I had to delete and recreate my repository because I just couldn’t get something to work. However, I did eventually get used to it. Initially, I also struggled with remembering to render with Quarto. Aside from this, I struggled with a few individual markdown items such as Mermaid diagrams, which I was unable to implement in the end.\n\n\nWhat I Would Do Differently\nIf I was starting again, I would definitely have a more established plan and list of things I wanted to get done. Whilst the final assignment rubric helped a lot of formulating a plan, I should’ve had one set up myself beforehand as it would’ve prevented chaotic additions and then retractions to my portfolio.\n\n\nHow These Skills Apply Beyond This Module\nThe combination of Git, Python, and web publishing is directly transferable to data analyst and business intelligence roles. Being able to present analysis in a professional self-made portfolio, and to be familiar with GitHub is a necessary skill nowadays. An underrated part of this assignment is that it has also given us a GitHub commit history, which can be checked by some employers (particularly if I was to go into data analytics). I generally also got very comfortable with VS Code, which is a very commonly used and important software to be able to use."
+  },
+  {
+    "objectID": "reflection.html#future-goals",
+    "href": "reflection.html#future-goals",
+    "title": "Reflection",
+    "section": " Future Goals",
+    "text": "Future Goals\nI plan to keep using this portfolio after graduating to differentiate myself in a tight job market. I hope to add to it as I plan my own projects outside of university."
   },
   {
     "objectID": "projects/list/median_house.html",
@@ -151,14 +158,14 @@
     "href": "index.html",
     "title": "Robert Mullins",
     "section": "",
-    "text": "I’m a Final Year International Business student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
   },
   {
     "objectID": "index.html#welcome-to-my-eportfolio",
     "href": "index.html#welcome-to-my-eportfolio",
     "title": "Robert Mullins",
     "section": "",
-    "text": "I’m a Final Year International Business student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
   },
   {
     "objectID": "projects/list/ainu.html",
@@ -243,19 +250,5 @@
     "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "Read the full report",
     "text": "Read the full report\n Read Full Report"
-  },
-  {
-    "objectID": "reflection.html#critical-reflection",
-    "href": "reflection.html#critical-reflection",
-    "title": "Reflection",
-    "section": " Critical Reflection",
-    "text": "Critical Reflection\n\nWhat I Found Challenging\nTo be honest, initially the entire assignment felt challenging. I was not familiar with GitHub very much, and found it a little intimidating to be constantly pushing things! There were a number of times I had to delete and recreate my repository because I just couldn’t get something to work. However, I did eventually get used to it. Initially, I also struggled with remembering to render with Quarto. Aside from this, I struggled with a few individual markdown items such as Mermaid diagrams, which I was unable to implement in the end.\n\n\nWhat I Would Do Differently\nIf I was starting again, I would definitely have a more established plan and list of things I wanted to get done. Whilst the final assignment rubric helped a lot of formulating a plan, I should’ve had one set up myself beforehand as it would’ve prevented chaotic additions and then retractions to my portfolio.\n\n\nHow These Skills Apply Beyond This Module\nThe combination of Git, Python, and web publishing is directly transferable to data analyst and business intelligence roles. Being able to present analysis in a professional self-made portfolio, and to be familiar with GitHub is a necessary skill nowadays. An underrated part of this assignment is that it has also given us a GitHub commit history, which can be checked by some employers (particularly if I was to go into data analytics). I generally also got very comfortable with VS Code, which is a very commonly used and important software to be able to use."
-  },
-  {
-    "objectID": "reflection.html#future-goals",
-    "href": "reflection.html#future-goals",
-    "title": "Reflection",
-    "section": " Future Goals",
-    "text": "Future Goals\nI plan to keep using this portfolio after graduating to differentiate myself in a tight job market. I hope to add to it as I plan my own projects outside of university."
   }
 ]
