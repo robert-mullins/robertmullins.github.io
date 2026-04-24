@@ -1,0 +1,29 @@
+---
+title: "Strategic Analysis of ABP Ireland"
+description: "A group project analysis focusing on ABP Ireland, an agricultural company, aiming to offer strategic advice for the company."
+author: "Robert Mullins, Megan Walker, Laura Pietrzak, Sam Oates, Ross Sheridan, Emma Breton"
+date: 2025-12-05
+image: "placeholder.png"
+
+categories: [Business Strategy]
+---
+
+## Overview
+
+Placeholder
+
+::: {.callout-note}
+This project was completed as part of BAA1019 Business Strategy at DCU. 
+:::
+
+## Read the full report
+
+[{{< fa file-pdf >}} Read Full Report](/projects/reports/company_analysis.pdf){.btn .btn-outline-primary target="_blank"}
+
+<iframe src="/projects/reports/company_analysis.pdf" 
+        width="100%" 
+        height="800px"
+        style="border: none; border-radius: 8px;">
+</iframe>
+
+---
