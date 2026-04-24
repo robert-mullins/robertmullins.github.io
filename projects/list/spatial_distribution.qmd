@@ -10,7 +10,7 @@ categories: [Data Analytics, R, GeoDA]
 
 ## Overview
 
-Placeholder
+Using Nearest Neighbour Analysis and Ripley's K-Function, this study examines whether farmers markets in Philadelphia are randomly distributed. Results confirm significant spatial clustering in central and western neighbourhoods, with northern and southern areas largely underserved, likely driven by population density rather than income differences.
 
 ::: {.callout-note}
 This project was completed as part of "Spatial Econometrics and Data" at Waseda University, Japan. 

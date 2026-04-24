@@ -46,14 +46,14 @@
     "href": "projects/list/median_house.html",
     "title": "OLS Regression to Predict Median House Values",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "This analysis uses multiple OLS regression to investigate the drivers of median house values across Philadelphia, finding that education levels and poverty rates were the strongest predictors. The model explained 66% of variance in house values, though spatial clustering in the data raised concerns about the independence assumption.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/median_house.html#overview",
     "href": "projects/list/median_house.html#overview",
     "title": "OLS Regression to Predict Median House Values",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "This analysis uses multiple OLS regression to investigate the drivers of median house values across Philadelphia, finding that education levels and poverty rates were the strongest predictors. The model explained 66% of variance in house values, though spatial clustering in the data raised concerns about the independence assumption.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/median_house.html#read-the-full-report",
@@ -67,14 +67,14 @@
     "href": "projects/list/eportfolio.html",
     "title": "ePortfolio",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+    "text": "Note\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
   },
   {
     "objectID": "projects/list/eportfolio.html#overview",
     "href": "projects/list/eportfolio.html#overview",
     "title": "ePortfolio",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
+    "text": "Note\n\n\n\nThis project was completed as part of BAA1028 Workflow & Data Management at DCU. The reflection for this project can be viewed here."
   },
   {
     "objectID": "projects/list/eportfolio.html#view-github-repository-here",
@@ -88,14 +88,14 @@
     "href": "projects/list/bankruptcy.html",
     "title": "Machine Learning Analysis on Company Bankruptcy",
     "section": "",
-    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+    "text": "This study applies four ML models (SVM, Random Forest, KNN, XGBoost) to a Taiwanese bankruptcy dataset, using SMOTE oversampling and SelectKBest feature selection to address class imbalance. XGBoost achieved the highest F2 score of 0.554, while SVM demonstrated the strongest recall, making it most suitable for real-world bankruptcy detection.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
   },
   {
     "objectID": "projects/list/bankruptcy.html#overview",
     "href": "projects/list/bankruptcy.html#overview",
     "title": "Machine Learning Analysis on Company Bankruptcy",
     "section": "",
-    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+    "text": "This study applies four ML models (SVM, Random Forest, KNN, XGBoost) to a Taiwanese bankruptcy dataset, using SMOTE oversampling and SelectKBest feature selection to address class imbalance. XGBoost achieved the highest F2 score of 0.554, while SVM demonstrated the strongest recall, making it most suitable for real-world bankruptcy detection.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
   },
   {
     "objectID": "projects/list/bankruptcy.html#read-the-full-report",
@@ -172,14 +172,14 @@
     "href": "projects/list/ainu.html",
     "title": "Unique Characteristics of Ainu Culture",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "A short Japanese-language essay examining the distinct cultural, linguistic, and ceremonial traditions of the Ainu people, the indigenous inhabitants of Hokkaido. It also addresses the marginalisation of the Ainu language and critiques the limitations of Japan’s 2019 recognition law.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
   },
   {
     "objectID": "projects/list/ainu.html#overview",
     "href": "projects/list/ainu.html#overview",
     "title": "Unique Characteristics of Ainu Culture",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "A short Japanese-language essay examining the distinct cultural, linguistic, and ceremonial traditions of the Ainu people, the indigenous inhabitants of Hokkaido. It also addresses the marginalisation of the Ainu language and critiques the limitations of Japan’s 2019 recognition law.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
   },
   {
     "objectID": "projects/list/ainu.html#read-the-full-report",
@@ -193,14 +193,14 @@
     "href": "projects/list/busstrat.html",
     "title": "Strategic Analysis of ABP Ireland",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1019 Business Strategy at DCU."
+    "text": "A five-stage consulting analysis of ABP Ireland, Ireland’s largest beef processor, examining how the firm generates and sustains competitive advantage in a rapidly evolving agribusiness environment. The report recommends a strategic roadmap centred on three pillars: sustainability leadership, product diversification, and deeper vertical integration.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1019 Business Strategy at DCU."
   },
   {
     "objectID": "projects/list/busstrat.html#overview",
     "href": "projects/list/busstrat.html#overview",
     "title": "Strategic Analysis of ABP Ireland",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1019 Business Strategy at DCU."
+    "text": "A five-stage consulting analysis of ABP Ireland, Ireland’s largest beef processor, examining how the firm generates and sustains competitive advantage in a rapidly evolving agribusiness environment. The report recommends a strategic roadmap centred on three pillars: sustainability leadership, product diversification, and deeper vertical integration.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1019 Business Strategy at DCU."
   },
   {
     "objectID": "projects/list/busstrat.html#read-the-full-report",
@@ -214,14 +214,14 @@
     "href": "projects/list/inequality_predict.html",
     "title": "Using Spatial Lag and Regression to Predict Income Inequality",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "This report models the Gini index across New York City census tracts using OLS, spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. GWR performed best overall, explaining 57% of inequality variation with no residual spatial autocorrelation, outperforming all other models.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/inequality_predict.html#overview",
     "href": "projects/list/inequality_predict.html#overview",
     "title": "Using Spatial Lag and Regression to Predict Income Inequality",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "This report models the Gini index across New York City census tracts using OLS, spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. GWR performed best overall, explaining 57% of inequality variation with no residual spatial autocorrelation, outperforming all other models.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/inequality_predict.html#read-the-full-report",
@@ -235,14 +235,14 @@
     "href": "projects/list/spatial_distribution.html",
     "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "Using Nearest Neighbour Analysis and Ripley’s K-Function, this study examines whether farmers markets in Philadelphia are randomly distributed. Results confirm significant spatial clustering in central and western neighbourhoods, with northern and southern areas largely underserved, likely driven by population density rather than income differences.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/spatial_distribution.html#overview",
     "href": "projects/list/spatial_distribution.html#overview",
     "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
+    "text": "Using Nearest Neighbour Analysis and Ripley’s K-Function, this study examines whether farmers markets in Philadelphia are randomly distributed. Results confirm significant spatial clustering in central and western neighbourhoods, with northern and southern areas largely underserved, likely driven by population density rather than income differences.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
     "objectID": "projects/list/spatial_distribution.html#read-the-full-report",

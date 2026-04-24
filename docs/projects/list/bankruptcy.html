@@ -433,7 +433,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.</p>
+<p>This study applies four ML models (SVM, Random Forest, KNN, XGBoost) to a Taiwanese bankruptcy dataset, using SMOTE oversampling and SelectKBest feature selection to address class imbalance. XGBoost achieved the highest F2 score of 0.554, while SVM demonstrated the strongest recall, making it most suitable for real-world bankruptcy detection.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -461,7 +461,7 @@ Note
 <p>Below are some snippets of the Python code that was used during this project, focusing primarily on the code used to create visualisations to understand the dataset I was dealing with.</p>
 <section id="shape-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="shape-of-dataset">Shape of Dataset</h3>
-<div id="42301aaf" class="cell" data-execution_count="1">
+<div id="942744c7" class="cell" data-execution_count="1">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.ticker <span class="im">as</span> ticker</span>
@@ -491,7 +491,7 @@ Name: count, dtype: int64</code></pre>
 </section>
 <section id="class-distribution-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="class-distribution-of-dataset">Class Distribution of Dataset</h3>
-<div id="19c78f5f" class="cell" data-execution_count="2">
+<div id="c9364511" class="cell" data-execution_count="2">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">#as seen above, there is a large class imbalance</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="co">#this is why SMOTE will be needed later on to create artificial bankrupcties in data (oversampling)</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -514,7 +514,7 @@ Name: count, dtype: int64</code></pre>
 </section>
 <section id="correlation-heatmap-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="correlation-heatmap-of-dataset">Correlation Heatmap of Dataset</h3>
-<div id="97696877" class="cell" data-execution_count="3">
+<div id="e4f9139f" class="cell" data-execution_count="3">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>top_20_cor_feat <span class="op">=</span> df.corr()[<span class="st">"Bankrupt?"</span>].<span class="bu">abs</span>().nlargest(<span class="dv">21</span>).index</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>

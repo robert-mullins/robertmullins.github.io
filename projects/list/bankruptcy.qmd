@@ -9,9 +9,7 @@ categories: [Machine Learning, Python, Data Analytics]
 
 ## Overview
 
-This project applies four machine learning models to predict company bankruptcy 
-using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature 
-selection were used to address class imbalance and reduce computational cost.
+This study applies four ML models (SVM, Random Forest, KNN, XGBoost) to a Taiwanese bankruptcy dataset, using SMOTE oversampling and SelectKBest feature selection to address class imbalance. XGBoost achieved the highest F2 score of 0.554, while SVM demonstrated the strongest recall, making it most suitable for real-world bankruptcy detection.
 
 ::: {.callout-note}
 This project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU.

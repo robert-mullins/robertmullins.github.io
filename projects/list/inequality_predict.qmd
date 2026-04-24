@@ -10,7 +10,7 @@ categories: [Data Analytics, GeoDa, R, ArcGis Pro]
 
 ## Overview
 
-Placeholder
+This report models the Gini index across New York City census tracts using OLS, spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. GWR performed best overall, explaining 57% of inequality variation with no residual spatial autocorrelation, outperforming all other models.
 
 ::: {.callout-note}
 This project was completed as part of "Spatial Econometrics and Data" at Waseda University, Japan. 

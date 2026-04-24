@@ -10,7 +10,7 @@ categories: [Business Strategy]
 
 ## Overview
 
-Placeholder
+A five-stage consulting analysis of ABP Ireland, Ireland's largest beef processor, examining how the firm generates and sustains competitive advantage in a rapidly evolving agribusiness environment. The report recommends a strategic roadmap centred on three pillars: sustainability leadership, product diversification, and deeper vertical integration.
 
 ::: {.callout-note}
 This project was completed as part of BAA1019 Business Strategy at DCU. 

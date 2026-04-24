@@ -10,7 +10,7 @@ categories: [Japanese, Culture, Ainu]
 
 ## Overview
 
-Placeholder
+A short Japanese-language essay examining the distinct cultural, linguistic, and ceremonial traditions of the Ainu people, the indigenous inhabitants of Hokkaido. It also addresses the marginalisation of the Ainu language and critiques the limitations of Japan's 2019 recognition law.
 
 ::: {.callout-note}
 This project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU. 
