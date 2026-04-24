@@ -58,5 +58,5 @@ format:
       light: [flatly, styles.scss]
       dark: [darkly, styles.scss]
     css: styles.css
-    toc: true
+    toc: false
     mainfont: Montserrat  
