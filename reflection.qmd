@@ -52,7 +52,7 @@ If I was starting again, I would definitely have a more established plan and lis
 
 ### How These Skills Apply Beyond This Module 
 
-The combination of Git, Python, and web publishing is directly transferable to data analyst and business intelligence roles. Being able to present analysis in a professional, deployed portfolio rather than a static document is a necessary skill nowadays. An underrated part of this assignment is that it has also given us a GitHub commit history, which can be checked by some employers (particularly if I was to go into data analytics). I generally also got very comfortable with VS Code, which is a very commonly used and important software to be able to use.
+The combination of Git, Python, and web publishing is directly transferable to data analyst and business intelligence roles. Being able to present analysis in a professional self-made portfolio, and to be familiar with GitHub is a necessary skill nowadays. An underrated part of this assignment is that it has also given us a GitHub commit history, which can be checked by some employers (particularly if I was to go into data analytics). I generally also got very comfortable with VS Code, which is a very commonly used and important software to be able to use.
 
 ## {{< fa arrow-right >}} Future Goals 
  
