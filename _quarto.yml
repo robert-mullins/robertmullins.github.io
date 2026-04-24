@@ -21,6 +21,14 @@ website:
             href: projects/list/eportfolio.qmd
           - text: "Project Three"
             href: projects/list/project_3.qmd
+          - text: "Project Four"
+            href: projects/list/project_4.qmd
+          - text: "Project Five"
+            href: projects/list/project_5.qmd
+          - text: "Project Six"
+            href: projects/list/project_6.qmd
+          - text: "Project Seven"
+            href: projects/list/project_7.qmd
           - text: "---"        # adds a divider line
           - text: "All Projects"
             href: projects/index.qmd

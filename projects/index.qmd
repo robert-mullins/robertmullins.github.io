@@ -8,4 +8,4 @@ listing:
 ---
 
 
-More [about me](/about.qmd).
+Here you can view various projects from my time at both Dublin City University in Ireland, and Waseda University in Japan.
