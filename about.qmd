@@ -16,8 +16,8 @@ My goals for now involve continuing my education, partiuclarly in relation to in
 ### My Skills:
 
 - **Languages:** English (Native), Japanese (B2), Mandarin (A2)
-- **Programming Languages:** Python, CSS, SQL, HTML
-- **Software:** Power BI, GitHub, Microsoft Office
+- **Programming Languages:** Python, CSS, SQL, HTML, R 
+- **Software:** Power BI, GitHub, Microsoft Office, GeoDa, ArcGis Pro
 
 ### Certifications & Scholarships:
 
