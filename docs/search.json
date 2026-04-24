@@ -18,7 +18,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\n\nTest\n\n\n\nShort Test\n\n\n\n\n\n\n\n\n\n\nProject One\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\nNo matching items"
+    "text": "More about me.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\nProject Three\n\n\n\nTest\n\n\n\nShort test\n\n\n\n\n\n\n\n\n\n\nProject Two\n\n\n\nTest\n\n\n\nShort Test\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -70,11 +70,25 @@
     "text": "I’m a Final Year International Business student at Dublin City University. Here, you can find a collection of my skills, academic projects and experiences. Do feel free to reach out to me on Linkedin or by email if you have any questions!\nYou can find out more about me here.\nAlternatively, feel free to take a look at my projects here."
   },
   {
-    "objectID": "projects/list/project_1.html",
-    "href": "projects/list/project_1.html",
-    "title": "Project One",
+    "objectID": "projects/list/bankruptcy.html",
+    "href": "projects/list/bankruptcy.html",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
     "section": "",
-    "text": "Write anything you want here about the project."
+    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+  },
+  {
+    "objectID": "projects/list/bankruptcy.html#overview",
+    "href": "projects/list/bankruptcy.html#overview",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "section": "",
+    "text": "This project applies four machine learning models to predict company bankruptcy using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature selection were used to address class imbalance and reduce computational cost.\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU."
+  },
+  {
+    "objectID": "projects/list/bankruptcy.html#read-the-full-report",
+    "href": "projects/list/bankruptcy.html#read-the-full-report",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "section": "Read the Full Report",
+    "text": "Read the Full Report\n Read Full Report"
   },
   {
     "objectID": "projects/list/project_3.html",

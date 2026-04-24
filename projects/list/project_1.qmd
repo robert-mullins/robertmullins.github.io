@@ -1,8 +1,0 @@
----
-title: "Project One"
-description: "Short test"
-date: 2024-01-01
-categories: [Test]    
----
-
-Write anything you want here about the project.

@@ -1,0 +1,24 @@
+---
+title: "Machine Learning Analysis on Company Bankruptcy"
+description: "Comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset."
+author: "Robert Mullins"
+date: 2026-04-19
+image: ../../images/bankruptcy.png
+categories: [Machine Learning, Python, Data Analytics]
+---
+
+## Overview
+
+This project applies four machine learning models to predict company bankruptcy 
+using a Taiwanese dataset from Kaggle. SMOTE oversampling and SelectKBest feature 
+selection were used to address class imbalance and reduce computational cost.
+
+::: {.callout-note}
+This project was completed as part of BAA1027 Data Analytics: Machine Learning & Advanced Python at DCU.
+:::
+
+## Read the Full Report
+
+[{{< fa file-pdf >}} Read Full Report](/projects/bankruptcyreport.pdf){.btn .btn-outline-primary target="_blank"}
+
+---

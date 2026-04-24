@@ -15,8 +15,8 @@ website:
       - text: Projects
         icon: folder
         menu:
-          - text: "Project One"
-            href: projects/list/project_1.qmd
+          - text: "Machine Learning Analysis on Company Bankruptcy"
+            href: projects/list/bankruptcy.qmd
           - text: "Project Two"
             href: projects/list/project_2.qmd
           - text: "Project Three"
