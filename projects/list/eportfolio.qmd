@@ -3,7 +3,7 @@ title: "ePortfolio"
 description: "Creating an ePortfolio using Quarto to showcase skills, achievements, background and future goals."
 author: "Robert Mullins"
 date: 2026-04-24
-image: "placeholder.png"
+image: "/images/portfolio.jpg"
 categories: [Quarto, SCSS, Python, Data Analytics]
 ---
 

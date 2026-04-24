@@ -3,7 +3,7 @@ title: "Spatial Distribution of Farmers Markets in Philadelphia"
 description: "A project that utilises spatial analysis in R and GeoDa to examine the distribution of farmers markets in Philadelphia."
 author: "Robert Mullins"
 date: 2025-02-21
-image: "placeholder.png"
+image: "/images/market.jpg"
 
 categories: [Data Analytics, R, GeoDA]
 ---

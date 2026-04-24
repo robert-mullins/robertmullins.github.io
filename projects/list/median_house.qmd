@@ -3,7 +3,7 @@ title: "OLS Regression to Predict Median House Values"
 description: "A project that used R, OLS Regression and a variety of other methods to predict median house values in Philadelphia."
 author: "Robert Mullins"
 date: 2025-01-20
-image: "placeholder.png"
+image: "/images/house.jpg"
 
 categories: [Data Analytics, R]
 ---

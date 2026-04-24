@@ -3,7 +3,7 @@ title: "Using Spatial Lag and Regression to Predict Income Inequality"
 description: "A project that used GeoDa, ArcGis Pro and R with a variety of techniques to predict income inequality within New York City."
 author: "Robert Mullins"
 date: 2025-03-17
-image: "placeholder.png"
+image: "/images/inequality.jpg"
 
 categories: [Data Analytics, GeoDa, R, ArcGis Pro]
 ---

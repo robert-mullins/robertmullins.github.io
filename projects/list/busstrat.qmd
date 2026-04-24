@@ -3,7 +3,7 @@ title: "Strategic Analysis of ABP Ireland"
 description: "A group project analysis focusing on ABP Ireland, an agricultural company, aiming to offer strategic advice for the company."
 author: "Robert Mullins, Megan Walker, Laura Pietrzak, Sam Oates, Ross Sheridan, Emma Breton"
 date: 2025-12-05
-image: "placeholder.png"
+image: "/images/abp.jpg"
 
 categories: [Business Strategy]
 ---

@@ -3,7 +3,7 @@ title: "Unique Characteristics of Ainu Culture"
 description: "A short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan."
 author: "Robert Mullins"
 date: 2025-11-14
-image: "placeholder.png"
+image: "/images/ainu.jpg"
 
 categories: [Japanese, Culture, Ainu]
 ---
