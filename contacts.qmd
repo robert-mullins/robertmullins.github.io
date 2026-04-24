@@ -6,9 +6,11 @@ title: "Contact & References"
 
 Feel free to reach out to me through any of the following:
 
-- **Email:** robertdavmullins@gmail.com
-- **LinkedIn:** [Robert Mullins](https://www.linkedin.com/in/robert-mullins-176006319/)
-- **GitHub:** [robert-mullins](https://github.com/robert-mullins)
+[{{< fa brands linkedin size=2x >}} LinkedIn](https://www.linkedin.com/in/robert-mullins-176006319/){target="_blank"}
+
+[{{< fa brands github size=2x >}} GitHub](https://github.com/robert-mullins){target="_blank"}
+
+[{{< fa envelope size=2x >}} robertdavmullins@gmail.com](mailto:robertdavmullins@gmail.com){target="_blank"}
 
 ## References
 
