@@ -24,6 +24,12 @@ website:
           - text: "---"        # adds a divider line
           - text: "All Projects"
             href: projects/index.qmd
+      - href: reflection.qmd
+        text: Reflection
+        icon: journal-text
+      - href: contacts.qmd
+        text: Contact
+        icon: envelope
       - text: "CV"
         href: "cv.pdf"        
         icon: file-text
