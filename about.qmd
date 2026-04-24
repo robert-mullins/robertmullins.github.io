@@ -9,18 +9,36 @@ about:
 ## Robert Mullins
 
 I'm a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics.
-I'm particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my [projects.](projects/index.qmd)
+I'm particularly interested in utilising data analytics to examine public policy and investment, which I have approached in some of my [projects.](projects/index.qmd)
 
 ### My Skills:
 
 - **Languages:** English (Native), Japanese (B2), Mandarin (A2)
 - **Programming Languages:** Python, CSS, SQL, HTML
-- **Software:** Power BI, Github, Microsoft Office
+- **Software:** Power BI, GitHub, Microsoft Office
 
 ### Certifications & Scholarships:
 
 - Japanese Language Proficiency Test N3 (日本語能力試験3級)
 - Recipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025
+
+| Subject | Type | Title | Date Completed | CPD/CPE Credits |
+|---------|------|-------|---------------|-----------------|
+| **Kubicle** | | | | |
+| Data Presentation Skills | Course | Communicating Data Effectively in Data Presentation Skills | April 5, 2026 | 1.0 |
+| Data Security | Course | Keeping Your Information Safe in Data Security | April 5, 2026 | 1.0 |
+| Data Presentation Skills | Course | Presenting Your Data in Data Presentation Skills | April 5, 2026 | 1.0 |
+| Data Presentation Skills | Course | Telling Stories with Data in Data Presentation Skills | April 5, 2026 | 1.0 |
+| Data Security | Course | Handling Data Securely and Responsibly in Data Security | April 5, 2026 | 1.5 |
+| Python Fundamentals | Course | Python Fundamentals in Python Fundamentals | May 22, 2025 | 2.0 |
+| SQL | Course | Selecting and Filtering Data with SQL in SQL | April 8, 2025 | 2.0 |
+| SQL | Course | Understanding SQL Databases in SQL | March 31, 2025 | 1.5 |
+| Excel | Course | Text, Time, and Dates in Excel | February 26, 2023 | 2.0 |
+| Excel | Course | Lookups and Database Functions in Excel | February 25, 2023 | 2.0 |
+| Excel | Course | Charts in Depth in Excel | January 18, 2023 | 1.0 |
+| Excel | Course | Pivot Tables in Excel | November 8, 2022 | 2.0 |
+| Excel | Course | Formulas and Functions in Excel | November 5, 2022 | 3.0 |
+| Excel | Course | Data Manipulation and Formatting in Excel | October 19, 2022 | 2.0 |
 
 ### Hobbies:
 
