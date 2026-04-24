@@ -1,0 +1,29 @@
+---
+title: "Using Spatial Lag and Regression to Predict Income Inequality"
+description: "A project that used GeoDa, ArcGis Pro and R with a variety of techniques to predict income inequality within New York City."
+author: "Robert Mullins"
+date: 2025-03-17
+image: "placeholder.png"
+
+categories: [Data Analytics, GeoDa, R, ArcGis Pro]
+---
+
+## Overview
+
+Placeholder
+
+::: {.callout-note}
+This project was completed as part of "Spatial Econometrics and Data" at Waseda University, Japan. 
+:::
+
+## Read the full report
+
+[{{< fa file-pdf >}} Read Full Report](/projects/reports/inequality_predict.pdf){.btn .btn-outline-primary target="_blank"}
+
+<iframe src="/projects/reports/inequality_predict.pdf" 
+        width="100%" 
+        height="800px"
+        style="border: none; border-radius: 8px;">
+</iframe>
+
+---

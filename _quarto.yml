@@ -25,10 +25,10 @@ website:
             href: projects/list/busstrat.qmd
           - text: "OLS Regression to Predict Median House Values"
             href: projects/list/median_house.qmd
-          - text: "Project Six"
-            href: projects/list/project_6.qmd
-          - text: "Project Seven"
-            href: projects/list/project_7.qmd
+          - text: "Spatial Distribution of Farmers Markets in Philadelphia"
+            href: projects/list/spatial_distribution.qmd
+          - text: "Using Spatial Lag and Regression to Predict Income Inequality"
+            href: projects/list/inequality_predict.qmd
           - text: "---"        # adds a divider line
           - text: "All Projects"
             href: projects/index.qmd

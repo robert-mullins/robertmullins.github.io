@@ -7,23 +7,23 @@
     "text": "placeholder"
   },
   {
-    "objectID": "projects/list/project_6.html",
-    "href": "projects/list/project_6.html",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/median_house.html",
+    "href": "projects/list/median_house.html",
+    "title": "OLS Regression to Predict Median House Values",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/project_6.html#overview",
-    "href": "projects/list/project_6.html#overview",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/median_house.html#overview",
+    "href": "projects/list/median_house.html#overview",
+    "title": "OLS Regression to Predict Median House Values",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/project_6.html#read-the-full-report",
-    "href": "projects/list/project_6.html#read-the-full-report",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/median_house.html#read-the-full-report",
+    "href": "projects/list/median_house.html#read-the-full-report",
+    "title": "OLS Regression to Predict Median House Values",
     "section": "Read the full report",
     "text": "Read the full report\n Read Full Report"
   },
@@ -74,7 +74,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you can view various projects from my time at both Dublin City University in Ireland, and Waseda University in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nePortfolio\n\n\n\nQuarto\n\nSCSS\n\nPython\n\nData Analytics\n\n\n\nCreating an ePortfolio using Quarto to showcase skills, achievements, background and future goals.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\n\n\nStrategic Analysis of ABP Ireland\n\n\n\nBusiness Strategy\n\n\n\nA group project analysis focusing on ABP Ireland, an agricultural company, aiming to offer strategic advice for the company.\n\n\n\n\n\n\n\n\n\n\n\n\nUnique Characteristics of Ainu Culture\n\n\n\nJapanese\n\nCulture\n\nAinu\n\n\n\nA short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\nUnique Characteristics of Ainu Culture\n\n\n\nJapanese\n\nCulture\n\nAinu\n\n\n\nA short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\nUnique Characteristics of Ainu Culture\n\n\n\nJapanese\n\nCulture\n\nAinu\n\n\n\nA short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\nOLS Regression to Predict Median House Values\n\n\n\nData Analytics\n\nR\n\n\n\nA project that used R, OLS Regression and a variety of other methods to predict median house values in Philadelphia.\n\n\n\n\n\nNo matching items"
+    "text": "Here you can view various projects from my time at both Dublin City University in Ireland, and Waseda University in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nePortfolio\n\n\n\nQuarto\n\nSCSS\n\nPython\n\nData Analytics\n\n\n\nCreating an ePortfolio using Quarto to showcase skills, achievements, background and future goals.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Analysis on Company Bankruptcy\n\n\n\nMachine Learning\n\nPython\n\nData Analytics\n\n\n\nComparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.\n\n\n\n\n\n\n\n\n\n\n\n\nStrategic Analysis of ABP Ireland\n\n\n\nBusiness Strategy\n\n\n\nA group project analysis focusing on ABP Ireland, an agricultural company, aiming to offer strategic advice for the company.\n\n\n\n\n\n\n\n\n\n\n\n\nUnique Characteristics of Ainu Culture\n\n\n\nJapanese\n\nCulture\n\nAinu\n\n\n\nA short essay written in Japanese discussing the various unique traits and characteristics of Ainu culture in Japan.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Spatial Lag and Regression to Predict Income Inequality\n\n\n\nData Analytics\n\nGeoDa\n\nR\n\nArcGis Pro\n\n\n\nA project that used GeoDa, ArcGis Pro and R with a variety of techniques to predict income inequality within New York City.\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Distribution of Farmers Markets in Philadelphia\n\n\n\nData Analytics\n\nR\n\nGeoDA\n\n\n\nA project that utilises spatial analysis in R and GeoDa to examine the distribution of farmers markets in Philadelphia.\n\n\n\n\n\n\n\n\n\n\n\n\nOLS Regression to Predict Median House Values\n\n\n\nData Analytics\n\nR\n\n\n\nA project that used R, OLS Regression and a variety of other methods to predict median house values in Philadelphia.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contacts.html",
@@ -168,44 +168,44 @@
     "text": "Read the full report\n Read Full Report"
   },
   {
-    "objectID": "projects/list/median_house.html",
-    "href": "projects/list/median_house.html",
-    "title": "OLS Regression to Predict Median House Values",
+    "objectID": "projects/list/inequality_predict.html",
+    "href": "projects/list/inequality_predict.html",
+    "title": "Using Spatial Lag and Regression to Predict Income Inequality",
     "section": "",
     "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/median_house.html#overview",
-    "href": "projects/list/median_house.html#overview",
-    "title": "OLS Regression to Predict Median House Values",
+    "objectID": "projects/list/inequality_predict.html#overview",
+    "href": "projects/list/inequality_predict.html#overview",
+    "title": "Using Spatial Lag and Regression to Predict Income Inequality",
     "section": "",
     "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/median_house.html#read-the-full-report",
-    "href": "projects/list/median_house.html#read-the-full-report",
-    "title": "OLS Regression to Predict Median House Values",
+    "objectID": "projects/list/inequality_predict.html#read-the-full-report",
+    "href": "projects/list/inequality_predict.html#read-the-full-report",
+    "title": "Using Spatial Lag and Regression to Predict Income Inequality",
     "section": "Read the full report",
     "text": "Read the full report\n Read Full Report"
   },
   {
-    "objectID": "projects/list/project_7.html",
-    "href": "projects/list/project_7.html",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/spatial_distribution.html",
+    "href": "projects/list/spatial_distribution.html",
+    "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/project_7.html#overview",
-    "href": "projects/list/project_7.html#overview",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/spatial_distribution.html#overview",
+    "href": "projects/list/spatial_distribution.html#overview",
+    "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "",
-    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of JPN1015 Perspectives on Japanese Culture at DCU."
+    "text": "Placeholder\n\n\n\n\n\n\nNote\n\n\n\nThis project was completed as part of “Spatial Econometrics and Data” at Waseda University, Japan."
   },
   {
-    "objectID": "projects/list/project_7.html#read-the-full-report",
-    "href": "projects/list/project_7.html#read-the-full-report",
-    "title": "Unique Characteristics of Ainu Culture",
+    "objectID": "projects/list/spatial_distribution.html#read-the-full-report",
+    "href": "projects/list/spatial_distribution.html#read-the-full-report",
+    "title": "Spatial Distribution of Farmers Markets in Philadelphia",
     "section": "Read the full report",
     "text": "Read the full report\n Read Full Report"
   }
