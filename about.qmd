@@ -45,3 +45,13 @@ My goals for now involve continuing my education, partiuclarly in relation to in
 ### Hobbies:
 
 - Hiking, running, travelling, language learning
+
+### Favourite Music
+
+Here is a small collection of music that I listened to as I created this website:
+
+**Rain Temple**
+{{< video https://www.youtube.com/watch?v=5mqYKjQts0Q&list=OLAK5uy_maklQP61CyO9hSe2c68KXizQovlAZl_No >}}
+
+**It Could Happen To You**
+{{< video https://www.youtube.com/watch?v=-yX4S7exMtU&list=PLP1lC0FnuI0IbEtblLQ5tPRdziZozavq0 >}}
