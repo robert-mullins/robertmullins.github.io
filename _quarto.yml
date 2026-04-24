@@ -23,8 +23,8 @@ website:
             href: projects/list/ainu.qmd
           - text: "Strategic Analysis of ABP Ireland"
             href: projects/list/busstrat.qmd
-          - text: "Project Five"
-            href: projects/list/project_5.qmd
+          - text: "OLS Regression to Predict Median House Values"
+            href: projects/list/median_house.qmd
           - text: "Project Six"
             href: projects/list/project_6.qmd
           - text: "Project Seven"
