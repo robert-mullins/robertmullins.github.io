@@ -33,10 +33,11 @@ This project was completed as part of BAA1027 Data Analytics: Machine Learning &
 
 ## Visualisations from Project
 
-### Class Distribution and Shape
+Below are some snippets of the Python code that was used during this project, focusing primarily on the code used to create visualisations to understand the dataset I was dealing with.
+
+### Shape of Dataset
 
 ```{python}
-#| fig-cap: "Figure 1 - Class Distribution of the Taiwanese Bankruptcy Dataset"
 #| warning: false
 
 import pandas as pd
@@ -54,6 +55,7 @@ print("No. of duplicates:", df.duplicated().sum()) #checking for duplicates
 print("\nClass:")
 print(df["Bankrupt?" ].value_counts()) #checking class balance
 ```
+### Class Distribution of Dataset
 
 ```{python}
 #| fig-cap: "Figure 1 - Class Distribution of the Taiwanese Bankruptcy Dataset"
@@ -70,6 +72,7 @@ plt.ylabel("Count")
 plt.title("Class Distribution")
 plt.show()
 ```
+### Correlation Heatmap of Dataset
 
 ```{python}
 #| warning: false
