@@ -8,7 +8,7 @@
 
 <meta name="author" content="Robert Mullins">
 <meta name="dcterms.date" content="2026-04-19">
-<meta name="description" content="Comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.">
+<meta name="description" content="A study on comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.">
 
 <title>Machine Learning Analysis on Company Bankruptcy – Robert Mullins</title>
 <style>
@@ -402,7 +402,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div>
   <div class="description">
-    Comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.
+    A study on comparing SVM, Random Forest, KNN and XGBoost models for bankruptcy prediction using a Taiwanese dataset.
   </div>
 </div>
 
@@ -450,7 +450,7 @@ Note
 </section>
 <section id="read-the-full-report" class="level2">
 <h2 class="anchored" data-anchor-id="read-the-full-report">Read the Full Report</h2>
-<p><a href="../..\projects/reports/bankruptcy_report.pdf" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i> Read Full Report</a></p>
+<p><a href="../..\projects/reports/bankruptcy_report.pdf" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i> Read Full Report</a> <a href="https://drive.google.com/drive/folders/1YsYnlWettlYCZaa9SUeLWl3cBaHddeT7?usp=drive_link" class="btn btn-outline-primary" target="_blank"><i class="fa-solid fa-code" aria-label="code"></i> View Code</a></p>
 <iframe src="../../projects/reports/bankruptcy_report.pdf" width="100%" height="800px" style="border: none; border-radius: 8px;">
 </iframe>
 <hr>
@@ -461,7 +461,7 @@ Note
 <p>Below are some snippets of the Python code that was used during this project, focusing primarily on the code used to create visualisations to understand the dataset I was dealing with.</p>
 <section id="shape-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="shape-of-dataset">Shape of Dataset</h3>
-<div id="942744c7" class="cell" data-execution_count="1">
+<div id="f1bebe4c" class="cell" data-execution_count="1">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.ticker <span class="im">as</span> ticker</span>
@@ -491,7 +491,7 @@ Name: count, dtype: int64</code></pre>
 </section>
 <section id="class-distribution-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="class-distribution-of-dataset">Class Distribution of Dataset</h3>
-<div id="c9364511" class="cell" data-execution_count="2">
+<div id="7c3d3e37" class="cell" data-execution_count="2">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">#as seen above, there is a large class imbalance</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="co">#this is why SMOTE will be needed later on to create artificial bankrupcties in data (oversampling)</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -514,7 +514,7 @@ Name: count, dtype: int64</code></pre>
 </section>
 <section id="correlation-heatmap-of-dataset" class="level3">
 <h3 class="anchored" data-anchor-id="correlation-heatmap-of-dataset">Correlation Heatmap of Dataset</h3>
-<div id="e4f9139f" class="cell" data-execution_count="3">
+<div id="40ad5c02" class="cell" data-execution_count="3">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>top_20_cor_feat <span class="op">=</span> df.corr()[<span class="st">"Bankrupt?"</span>].<span class="bu">abs</span>().nlargest(<span class="dv">21</span>).index</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>

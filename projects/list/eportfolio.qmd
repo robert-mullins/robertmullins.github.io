@@ -1,6 +1,6 @@
 ---
 title: "ePortfolio"
-description: "Creating an ePortfolio using Quarto to showcase skills, achievements, background and future goals."
+description: "An ePortfolio showcasing my own personal skills, achievements and past work."
 author: "Robert Mullins"
 date: 2026-04-24
 image: "/images/portfolio.jpg"
