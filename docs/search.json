@@ -70,6 +70,13 @@
     "text": "Read the Full Report\n Read Full Report"
   },
   {
+    "objectID": "projects/list/bankruptcy.html#visualisations-from-project",
+    "href": "projects/list/bankruptcy.html#visualisations-from-project",
+    "title": "Machine Learning Analysis on Company Bankruptcy",
+    "section": "Visualisations from Project",
+    "text": "Visualisations from Project\n\nClass Distribution and Shape\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\nimport matplotlib.ticker as ticker\n\ndf = pd.read_csv(\"data.csv\")\n\ndf.columns = df.columns.str.strip() #removes possible white space from columns that could break it\n\n#describing the shape of the data\nprint(\"Shape of data:\", df.shape) #displaying shape\nprint(\"No. of null values:\", df.isnull().sum().sum()) #checking for null values\nprint(\"No. of duplicates:\", df.duplicated().sum()) #checking for duplicates\nprint(\"\\nClass:\")\nprint(df[\"Bankrupt?\" ].value_counts()) #checking class balance\n\nShape of data: (6819, 96)\nNo. of null values: 0\nNo. of duplicates: 0\n\nClass:\nBankrupt?\n0    6599\n1     220\nName: count, dtype: int64\n\n\n\n#as seen above, there is a large class imbalance\n#this is why SMOTE will be needed later on to create artificial bankrupcties in data (oversampling)\n\ncounts = df[\"Bankrupt?\"].value_counts()\n\nplt.figure() #creating chart showing imbalanced class distribution\nplt.bar([\"Not Bankrupt\", \"Bankrupt\"], [counts[0], counts[1]])\nplt.ylabel(\"Count\")\nplt.title(\"Class Distribution\")\nplt.show()\n\n\n\n\nFigure 1 - Class Distribution of the Taiwanese Bankruptcy Dataset"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",

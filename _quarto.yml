@@ -68,3 +68,6 @@ format:
     css: styles.css
     toc: false
     mainfont: Montserrat  
+
+execute:
+  freeze: auto
