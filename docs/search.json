@@ -30,9 +30,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\nPlaceholder text to view font test"
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
   },
   {
     "objectID": "projects/index.html",
@@ -47,5 +47,12 @@
     "title": "Project Two",
     "section": "",
     "text": "Content about project two."
+  },
+  {
+    "objectID": "about.html#robert-mullins",
+    "href": "about.html#robert-mullins",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a fourth-year Business Studies International student at Dublin City University, specialising in the Japanese language and data analytics. I’m particularly interested in utilising data analytics to examine public policy and ivestment, which I have approached in some of my projects.\n\n\n\nLanguages: English (Native), Japanese (B2), Mandarin (A2)\nProgramming Languages: Python, CSS, SQL, HTML\nSoftware: Power BI, Github, Microsoft Office\n\n\n\n\n\nJapanese Language Proficiency Test N3 (日本語能力試験3級)\nRecipient of the Heiwa-Nakajima Foundation (平和中島財団) Scholarship 2024/2025\n\n\n\n\n\nHiking, running, travelling, language learning"
   }
 ]
